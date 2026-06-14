@@ -1,0 +1,23 @@
+{
+  "name": "auth0-jwt-api-demo",
+  "version": "1.0.0",
+  "description": "Dependency-light Auth0 JWT API guard demo with tests.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "auth0",
+    "jwt",
+    "api-security",
+    "nodejs",
+    "oauth2"
+  ],
+  "author": "Kobey Broussard",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
