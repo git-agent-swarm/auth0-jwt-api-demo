@@ -47,7 +47,7 @@ Small businesses and startups often have one internal API that needs simple auth
 
 Built by Kobey Dev Services as an identity/API security proof.
 
-- Portfolio: https://kobeydev.web.app
+- Portfolio: https://kobeydev.com
 - GitHub org: https://github.com/git-agent-swarm
 - Google Developer profile: https://me.developers.google.com/u/116492041557080639666
 
